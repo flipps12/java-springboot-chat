@@ -1,4 +1,4 @@
-# Web de chat.
+# Servidor de chat.
 
 > ## Utilizando:
 >
