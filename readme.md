@@ -5,7 +5,7 @@
 > - Java
 > - SpringBoot
 > - WebSocket
-> - [Web React](https://github.com/flipps12/React-Chat)
+> - [Web Javascript + React](https://github.com/flipps12/React-Chat)
 >
 > #### Configurar:
 > 
