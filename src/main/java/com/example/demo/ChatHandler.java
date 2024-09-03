@@ -2,7 +2,6 @@ package com.example.demo;
 
 import com.example.demo.Repository.UsersRepository;
 import com.example.demo.Users.Component.JwtUtil;
-import io.jsonwebtoken.Claims;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.web.socket.CloseStatus;

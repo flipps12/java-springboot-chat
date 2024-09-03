@@ -7,8 +7,6 @@ import com.example.demo.Users.Models.LoginUsers;
 import com.example.demo.Users.Models.RegisterUsers;
 import com.example.demo.Users.Users;
 import lombok.AllArgsConstructor;
-import org.springframework.context.annotation.Bean;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 @Service
